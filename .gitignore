@@ -1,0 +1,4 @@
+mysql
+*.pem
+*.crt
+*.key
